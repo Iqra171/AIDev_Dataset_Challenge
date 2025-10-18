@@ -12,7 +12,7 @@ This work contributes to understanding how Coding Agents shape modern software e
 ## 🗂️ Repository Structure
 ```
 📂 Q2-Adoption-Practices/
- ┣ 📜 Q2.ipynb                
+ ┣ 📜 coding_agents_analysis.ipynb                
  ┣ 📜 README.md                
  ┗ 📜 report.pdf (optional summary)
 ```
@@ -24,7 +24,7 @@ This work contributes to understanding how Coding Agents shape modern software e
 
 ### Option 1 – Google Colab
 1. Open the notebook in [Google Colab](https://colab.research.google.com).
-2. Upload the `Q2.ipynb` file.
+2. Upload the `coding_agents_analysis.ipynb` file.
 3. Run all cells sequentially.
 
 Dataset access:
@@ -57,7 +57,7 @@ GitHub: [Iqra171](https://github.com/Iqra171)
 
 | Type | File | Description |
 |------|------|--------------|
-| **Notebook** | `Q2.ipynb` | Main analysis and visualizations |
+| **Notebook** | `coding_agents_analysis.ipynb` | Main analysis and visualizations |
 | **Report / Summary** | `report.pdf` | Short written summary of findings |
 | **LICENSE** | `LICENSE` | Usage terms |
 | **README.md** | — | Main documentation (this file) |
