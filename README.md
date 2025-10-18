@@ -11,15 +11,16 @@ This work contributes to understanding how Coding Agents shape modern software e
 
 ## 🗂️ Repository Structure
 ```
-📂 Q2-Adoption-Practices/
- ┣ 📜 coding_agents_analysis.ipynb                
- ┣ 📜 README.md                
- ┗ 📜 results/
-├── csv/ # Contains CSV data outputs
-├── figures/ # Stores generated plots and figures
-├── AIDev_paper.pdf # Main analysis paper (PDF)
-├── result_summary.md # Summary of key findings and analysis
-└── README.md # Documentation for the results directory
+📂 AIDev_Dataset_Challenge/
+ ┣ 📜 coding_agents_analysis.ipynb        # Main notebook for analysis of Coding Agents (Q1a & Q1b)
+ ┣ 📜 README.md                           # Overview, setup, and usage guide
+ ┗ 📂 results/
+    ┣ 📂 csv/                             # Processed data files and analysis-ready CSVs
+    ┣ 📂 figures/                         # Generated visualizations and plots
+    ┣ 📜 AIDev_paper.pdf                  # Technical report / paper-style writeup
+    ┣ 📜 result_summary.md                # Summary of findings and interpretations
+    ┗ 📜 README.md                        # Notes related to result files and data organization
+
 ```
 
 ---
@@ -63,7 +64,8 @@ GitHub: [Iqra171](https://github.com/Iqra171)
 | Type | File | Description |
 |------|------|--------------|
 | **Notebook** | `coding_agents_analysis.ipynb` | Main analysis and visualizations |
-| **Report / Summary** | `report.pdf` | Short written summary of findings |
+| **Report** | `AIDev_paper.pdf` | Short written summary of findings |
+| **Report / Summary** | `result_summary.md` | Short written summary of findings |
 | **LICENSE** | `LICENSE` | Usage terms |
 | **README.md** | — | Main documentation (this file) |
 
