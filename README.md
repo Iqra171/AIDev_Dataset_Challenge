@@ -1,4 +1,3 @@
-# AIDev_Dataset_Challenge
 # Adoption and Practices of Coding Agents on GitHub using the AIDEV Dataset
 
 ## 🧠 Overview
@@ -13,34 +12,13 @@ This work contributes to understanding how Coding Agents shape modern software e
 ## 🗂️ Repository Structure
 ```
 📂 Q2-Adoption-Practices/
- ┣ 📜 Q2.ipynb                # Main analysis notebook
- ┣ 📜 requirements.txt         # Dependencies
- ┣ 📜 README.md                # Documentation
- ┣ 📂 data/                    # (optional) subset or sample of dataset
- ┣ 📂 results/                 # plots, tables, metrics
- ┣ 📜 LICENSE (optional)
+ ┣ 📜 Q2.ipynb                
+ ┣ 📜 README.md                
  ┗ 📜 report.pdf (optional summary)
 ```
 
 ---
 
-## ⚙️ Requirements
-Install the dependencies before running:
-```bash
-pip install -r requirements.txt
-```
-
-Example `requirements.txt`:
-```
-nbformat==5.10.4
-nbconvert==7.16.6
-pandas>=2.0
-matplotlib>=3.8
-seaborn>=0.13
-scikit-learn>=1.4
-```
-
----
 
 ## ▶️ How to Run
 
@@ -80,9 +58,6 @@ GitHub: [Iqra171](https://github.com/Iqra171)
 | Type | File | Description |
 |------|------|--------------|
 | **Notebook** | `Q2.ipynb` | Main analysis and visualizations |
-| **requirements.txt** | — | List of dependencies |
-| **Sample Data** | `data/sample_pull_requests.csv` | (Optional) small dataset subset |
-| **Plots / Results** | `results/adoption_trends.png`, `results/pr_quality_table.csv` | Generated outputs |
 | **Report / Summary** | `report.pdf` | Short written summary of findings |
 | **LICENSE** | `LICENSE` | Usage terms |
 | **README.md** | — | Main documentation (this file) |
