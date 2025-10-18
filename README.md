@@ -14,7 +14,12 @@ This work contributes to understanding how Coding Agents shape modern software e
 📂 Q2-Adoption-Practices/
  ┣ 📜 coding_agents_analysis.ipynb                
  ┣ 📜 README.md                
- ┗ 📜 report.pdf (optional summary)
+ ┗ 📜 results/
+├── csv/ # Contains CSV data outputs
+├── figures/ # Stores generated plots and figures
+├── AIDev_paper.pdf # Main analysis paper (PDF)
+├── result_summary.md # Summary of key findings and analysis
+└── README.md # Documentation for the results directory
 ```
 
 ---
