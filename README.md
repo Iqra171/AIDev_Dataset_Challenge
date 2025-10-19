@@ -12,14 +12,14 @@ This work contributes to understanding how Coding Agents shape modern software e
 ## 🗂️ Repository Structure
 ```
 📂 AIDev_Dataset_Challenge/
- ┣ 📜 coding_agents_analysis.ipynb        # Main notebook for analysis of Coding Agents (Q1a & Q1b)
- ┣ 📜 README.md                           # Overview, setup, and usage guide
- ┗ 📂 results/
+ ┣ 📂 results/
     ┣ 📂 csv/                             # Processed data files and analysis-ready CSVs
     ┣ 📂 figures/                         # Generated visualizations and plots
     ┣ 📜 AIDev_paper.pdf                  # Technical report / paper-style writeup
     ┣ 📜 result_summary.md                # Summary of findings and interpretations
     ┗ 📜 README.md                        # Notes related to result files and data organization
+ ┣ 📜 README.md                           # Overview, setup, and usage guide
+ ┗ 📜 coding_agents_analysis.ipynb        # Main notebook for analysis of Coding Agents (Q1a & Q1b)
 
 ```
 
